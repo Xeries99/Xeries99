@@ -27,5 +27,5 @@
 
 
 <p aling="center">
-<img src="https://komarev.com/ghpvc/?username=Xeries99&label=ProfileViews&color=blue" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Xeries99&label=Profile%20Views&color=blue" alt="profile views"/>
 </p>
