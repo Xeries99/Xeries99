@@ -26,29 +26,6 @@
 ------
 
 
-<h3 aling="center"> Featured Projects</h3>
-<p align="center">
-  <a href="https://github.com/Xeries99/discord-channel-creator">
-    <img src="https://img.shields.io/badge/Discord%20Bot-Project-blue?style=for-the-badge&logo=discord" />
-    <br />
-    <strong>Discord Channel Creator</strong>
-  </a>
-</p>
-
-<br />
-
-<p align="center">
-  <a href="https://xeries.dev">
-    <img src="https://img.shields.io/badge/Website-Coming%20Soon-orange?style=for-the-badge&logo=firefox-browser" />
-    <br />
-    <strong>xeries.dev</strong>
-  </a>
-</p>
-
-
----------
-
-
 <p aling="center">
 <img src="https://komarev.com/ghpvc/?username=Xeries99&label=Profile%20Views&color=blue" alt="profile views"/>
 </p>
