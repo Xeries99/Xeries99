@@ -1,16 +1,19 @@
-## Hi there 👋
+<p aling="center">
+</p>
+<h1 aling="center">Hey I'm Piotr (aka Xeries99)</h1>
+<p aling="center">
+  Automation Enthusiast
+</p>
 
-<!--
-**Xeries99/Xeries99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------
 
-Here are some ideas to get you started:
+### Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building **a web-based Discord server configuration**
+- Reach me at: `xeries.dev@gmail.com`
+
+------
+
+<p aling="center">
+<img src="https://komarev.com/ghpvc/?username=Xeries99&label=Profile%20Views&color=blue" alt="profile views"/>
+</p>
