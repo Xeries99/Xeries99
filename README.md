@@ -1,7 +1,7 @@
 <p aling="center">
   <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="160" alt="">
 </p>
-<h1 aling="center" style="font-size: 2.5rem; font-weight: bold;">Hey I'm <snap style="color:#58a6ff;"?>Piotr (ᴀᴋᴀ Xeries99)</h1>
+<h1 aling="center" style="font-size: 2.5rem; font-weight: bold;">Hey I'm <span style="color:#58a6ff;"?>Piotr (ᴀᴋᴀ Xeries99)</h1>
 <p aling="center">
   Automation Enthusiast
 </p>
