@@ -1,6 +1,6 @@
 <p aling="center">
 </p>
-<h1 aling="center">Hey I'm Piotr (aka Xeries99)</h1>
+<h1 aling="center">Hey I'm Piotr (ᴀᴋᴀ Xeries99)</h1>
 <p aling="center">
   Automation Enthusiast
 </p>
