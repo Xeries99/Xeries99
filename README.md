@@ -19,7 +19,7 @@
 <h3 aling="center"> Github Stats</h3>
 
 <p aling="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xeries99&show_icons=true&theme=tokyonight" height="150" alt="stats" style="max-width: 100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Xeries99&show_icons=true&theme=tokyonight" dir="auto"/>
 </p>
 
 ------
