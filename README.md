@@ -15,6 +15,16 @@
 
 ------
 
+
+<h3 aling="center"> Github Stats</h3>
+
+<p aling="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xeries99&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeries99&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+------
+
 <p aling="center">
 <img src="https://komarev.com/ghpvc/?username=Xeries99&label=Profile%20Views&color=blue" alt="profile views"/>
 </p>
